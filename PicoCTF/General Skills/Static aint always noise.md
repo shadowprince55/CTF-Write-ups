@@ -1,0 +1,3 @@
+This CTF was fun. 
+I mostly had to run the bash script and provide the non-stripped ELF file to it to get a dump of two files.
+The flag was in the file called static.ltdis.strings.txt...
