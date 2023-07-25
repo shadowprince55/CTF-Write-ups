@@ -14,5 +14,7 @@ The gobuster scan yields the following results:
 
 `gobuster dir -u http://10.10.140.75 -w /usr/share/wordlists/dirbuster/directory-list-2.3-medium.txt `
 
-/development
+Directory found = /development
+
+
 ---
